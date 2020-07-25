@@ -1,5 +1,4 @@
-
-**interactive [self-introduction](https://me.kalan.dev)**
+[![Kalan Stats](https://github-readme-stats.vercel.app/api?username=kjj6198)](https://me.kalan.dev)
 
 ## About Me
 
